@@ -1,4 +1,6 @@
-# angular-templatecache-webpack-plugin
+# angular-templatecache-webpack-plugin (Webpack 5 compatible)
+
+[This is a fork of Rafael Mussi](https://github.com/rafaelmussi/angular-templatecache-webpack-plugin)
 
 [![npm][npm]][npm-url]
 ![npm](https://img.shields.io/npm/dw/angular-templatecache-webpack-plugin.svg)
